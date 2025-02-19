@@ -1,6 +1,6 @@
 # Repositorio
 
-![Alt REPOSITORY](./rep.png)
+![Repository Logo](rep.png)
 
-Aprendendo a utilizar o Git e Github e a linguagem
+Aprendendo a utilizar o Git e Github
 
